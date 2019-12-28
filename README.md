@@ -73,7 +73,7 @@ contoh:
 # ![GitHub Logo](gambar6.png)
 
 # Output
-# ![GitHub Logo](gambar6.png)
 # ![GitHub Logo](gambar7.png)
+# ![GitHub Logo](gambar8.png)
 
 Demikian untuk praktikum saya hari ini saya ucapkan terimakasih
