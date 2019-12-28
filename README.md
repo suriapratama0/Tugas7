@@ -1,9 +1,5 @@
 # Module & Package
 
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
-
-di Praktikum 6 ini saya akan mempraktikan Module & Package
-
 # Module
 # Pengertian Module
 - Modul merupakan bagian dari program yang berisi fungsi-fungsi yang dibuat pada file terpisah.
@@ -60,31 +56,29 @@ contoh:
 -  main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 
 # Package & Module
-# ![GitHub Logo](gambar)
+# ![GitHub Logo](gambar.png)
 
 # daftar_nilai
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture1.PNG)
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture2.PNG)
+# ![GitHub Logo](gambar1.png)
+# ![GitHub Logo](gambar2.png)
 
 # input_nilai
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture3.PNG)
+# ![GitHub Logo](gambar3.png)
 
 # view_nilai
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture4.PNG)
+# ![GitHub Logo](gambar4.png)
 
 # main
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture5.PNG)
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture6.PNG)
+# ![GitHub Logo](gambar5.png)
+# ![GitHub Logo](gambar6.png)
 
 # Output
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture7.PNG)
-- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture8.PNG)
-
+# ![GitHub Logo](gambar6.png)
+# ![GitHub Logo](gambar7.png)
 
 Demikian untuk praktikum saya hari ini saya ucapkan terimakasih
-Wassalamu'alaykum Wr, Wb.
 
-Sultan Aditia
-
+Suria Pratama
+311910113
 T.I.19.A.1
 
