@@ -77,8 +77,3 @@ contoh:
 # ![GitHub Logo](gambar7.png)
 
 Demikian untuk praktikum saya hari ini saya ucapkan terimakasih
-
-Suria Pratama
-311910113
-T.I.19.A.1
-
