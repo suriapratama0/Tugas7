@@ -70,7 +70,7 @@ contoh:
 
 # main
 # ![GitHub Logo](gambar5.png)
-# ![GitHub Logo](gambar6.png)
+# ![GitHub Logo](gambar6.jpg)
 
 # Output
 # ![GitHub Logo](gambar7.png)
