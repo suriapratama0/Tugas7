@@ -60,7 +60,7 @@ contoh:
 -  main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 
 # Package & Module
-![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture.PNG)
+# ![GitHub Logo](gambar)
 
 # daftar_nilai
 - ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture1.PNG)
